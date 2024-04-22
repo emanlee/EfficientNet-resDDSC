@@ -5,11 +5,11 @@ EfficientNet-resDDSC is a supervised deep learning model to infer causal relatio
 ## Setting runtime environments:
 Code is tested using Python >=3.7
 
-It's better to create a virtual environment to run code.
-conda create -n ddsc python=3.7 
+It's better to create a virtual environment to run code
+- conda create -n ddsc python=3.7 
 
 activate the virtual environment 
-conda activate ddsc 
+- conda activate ddsc 
 
 # install pacakages
 - pip install pandas==1.3.5   
