@@ -1,6 +1,7 @@
 ﻿# EfficientNet-resDDSC
 
-EfficientNet-resDDSC is a supervised deep learning model to infer causal relationships between genes from scRNA-seq data. The model inherits the basic structure of EfficientNet-B0 and incorporates residual blocks as well as dilated convolution. By introducing residual blocks to enhance the model's ability to capture low-level features at the primary stage. Combining the Depthwise Separable Convolution in the inverted linear bottleneck layer and the dilated convolution to expand the model's receptive field without increasing the computational effort. This design enables the model to comprehensively reveal potential relationships among different genes in high-dimensional and high-noise scRNA-seq data.
+readme will come after the paper is published.
+
 
 ## Setting runtime environments:
 Code is tested using Python >=3.7
