@@ -40,7 +40,7 @@ dendritic single cell RNA-seq:
 
 We format the pairs with positive labels in the benchmark downloaded from the corresponding links, and randomly select same number of pairs with negative labels, to generate the training pair file (see folder data_evaluation).
 
-To study the key gene BRCA1 gene in breast cancer patients, we downloaded the gene expression profiles of two untreated breast cancer patients (GSE123926) from NCBI database, and then constructed the relevant gene pairs of the BRCA1 gene and performed gene causality analysis using EfficientNet-resDDSC.
+To study ....
 
 
 ## TASK 1, Evaluating EfficientNet-resDDSC on three datasets
